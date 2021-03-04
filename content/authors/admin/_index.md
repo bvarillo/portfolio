@@ -3,39 +3,32 @@ role: PhD student in Computer Science, Distributed Real-Time Middleware
 bio: My research interests include distributed robotics, real-time systems and
   response time calculation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Real-Time
+  - Embeded systems
+  - Response time validation
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: /#mailto:benoit.varillon@isae.spaero.fr
+    display:
+      header: false
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bvarillo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/benoit-varillon-445465167/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ISAE-Supaero
+    url: https://www.isae-supaero.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Computer Science, Embeded Systems
+      institution: ISAE-Supaero
+      year: ""
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: ISAE-ENSMA
+      year: 2020
 superuser: true
 highlight_name: false
 title: Benoit Varillon
