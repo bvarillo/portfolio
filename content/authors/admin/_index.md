@@ -18,6 +18,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/benoit-varillon-445465167/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: gitlab
+    link: https://gitlab.com
 organizations:
   - name: ISAE-Supaero
     url: https://www.isae-supaero.fr/
@@ -26,7 +31,7 @@ education:
     - course: PhD in Computer Science, Embeded Systems
       institution: ISAE-Supaero
       year: ""
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Computer Science and Avionics
       institution: ISAE-ENSMA
       year: 2020
 superuser: true
