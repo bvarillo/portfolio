@@ -3,8 +3,8 @@ role: PhD student in Computer Science, Distributed Real-Time Middleware
 bio: My research interests include distributed robotics, real-time systems and
   response time calculation.
 interests:
-  - Computer Science (Real-Time)
-  - Embeded systems
+  - Computer Science
+  - Embeded/Realt-Time systems
   - Photography
   - Music
 social:
@@ -23,7 +23,7 @@ social:
       header: false
     icon_pack: fab
     icon: gitlab
-    link: https://gitlab.com
+    link: https://gitlab.com/bvarillo
 organizations:
   - name: ISAE-Supaero
     url: https://www.isae-supaero.fr/
@@ -40,8 +40,4 @@ highlight_name: false
 title: Benoit Varillon
 email: ""
 ---
-I am a PhD student in the {{< staticref "https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-ingenierie-pour-les-systemes-critiques-460/" "newtab" >}}IpSC{{< /staticref >}} team of DISC at ISAE-Supaero in Toulouse. I am realizing my thesis under the supervisation of Charles Lesir-Cabaniols, Jean-Baptiste Chaudron and David Doose.
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD student in the {{< staticref "https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-ingenierie-pour-les-systemes-critiques-460/" "newtab" >}}IpSC{{< /staticref >}} team of DISC at ISAE-Supaero in Toulouse. I am realizing my thesis under the supervision of Charles Lesir-Cabaniols, Jean-Baptiste Chaudron and David Doose.
