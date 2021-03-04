@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#mailto:benoit.varillon@isae.spaero.fr
+    link: /#mailto:benoit.varillon@isae-spaero.fr
     display:
       header: false
   - icon: github
