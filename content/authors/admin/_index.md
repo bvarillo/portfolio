@@ -3,9 +3,10 @@ role: PhD student in Computer Science, Distributed Real-Time Middleware
 bio: My research interests include distributed robotics, real-time systems and
   response time calculation.
 interests:
-  - Real-Time
+  - Computer Science (Real-Time)
   - Embeded systems
-  - Response time validation
+  - Photography
+  - Music
 social:
   - icon: envelope
     icon_pack: fas
