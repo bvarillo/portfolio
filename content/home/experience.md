@@ -37,4 +37,12 @@ experience:
     date_start: '2020-04-10'
     date_end: '2020-09-10'
     description: Real-time Middleware with ROS2
+    
+  - title: Interne
+    company: Auckland University of Technology
+    company_url: ''
+    location: Auckland, New-Zealand
+    date_start: '2019-05'
+    date_end: '2019-08'
+    description: Image Processing
 ---
