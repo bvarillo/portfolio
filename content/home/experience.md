@@ -42,7 +42,7 @@ experience:
     company: Auckland University of Technology
     company_url: ''
     location: Auckland, New-Zealand
-    date_start: '2019-05'
-    date_end: '2019-08'
+    date_start: '2019-05-01'
+    date_end: '2019-08-01'
     description: Image Processing
 ---
