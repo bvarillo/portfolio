@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Distributed Real-time Middleware
         
-  - title: Interne
+  - title: Intern
     company: Onera
     company_url: ''
     location: Toulouse, France
@@ -38,7 +38,7 @@ experience:
     date_end: '2020-09-10'
     description: Real-time Middleware with ROS2
     
-  - title: Interne
+  - title: Intern
     company: Auckland University of Technology
     company_url: ''
     location: Auckland, New-Zealand
