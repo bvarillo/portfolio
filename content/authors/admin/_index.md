@@ -27,6 +27,8 @@ social:
 organizations:
   - name: ISAE-Supaero
     url: https://www.isae-supaero.fr/
+  - name: ONERA/DTIS
+    url: https://www.onera.fr/fr/dtis
 education:
   courses:
     - course: PhD in Computer Science, Embeded Systems
@@ -38,6 +40,6 @@ education:
 superuser: true
 highlight_name: false
 title: Benoit Varillon
-email: ""
+email: benoit.varillon@isae-supaero.fr
 ---
 I am a PhD student in the {{< staticref "https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-ingenierie-pour-les-systemes-critiques-460/" "newtab" >}}IpSC{{< /staticref >}} team of DISC at ISAE-Supaero in Toulouse. I am realizing my thesis under the supervision of Charles Lesir-Cabaniols, Jean-Baptiste Chaudron and David Doose.
