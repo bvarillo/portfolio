@@ -1,12 +1,17 @@
 ---
+authors:
+  - admin
+
 role: PhD student in Computer Science, Distributed Real-Time Middleware
 bio: My research interests include distributed robotics, real-time systems and
   response time calculation.
+
 interests:
   - Computer Science
   - Embeded/Realt-Time systems
   - Photography
   - Music
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,11 +29,13 @@ social:
     icon_pack: fab
     icon: gitlab
     link: https://gitlab.com/bvarillo
+
 organizations:
   - name: ISAE-Supaero
     url: https://www.isae-supaero.fr/
   - name: ONERA/DTIS
     url: https://www.onera.fr/fr/dtis
+
 education:
   courses:
     - course: PhD in Computer Science, Embeded Systems

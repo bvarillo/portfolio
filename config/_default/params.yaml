@@ -33,7 +33,7 @@ address:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -44,14 +44,14 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: fr-fr
 
 # Site features
 
 highlight: true
 highlight_languages:
-  - r
-math: false
+  - x86asm
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -63,12 +63,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: false
+  book: true
   page: false
   post: true
-  project: false
+  project: true
   publication: true
-  event: false
+  event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -89,8 +89,8 @@ publications:
   citation_style: apa
 projects:
   post_view: 2
-  publication_view: 2
-  talk_view: 2
+  publication_view: 5
+  talk_view: 5
 breadcrumb:
   page_types:
     book: true

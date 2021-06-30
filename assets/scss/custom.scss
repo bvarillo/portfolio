@@ -1,0 +1,48 @@
+/* center icons on fa-li */
+#contact.home-section .fa-li {
+    padding-top: inherit;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* inner shadow on portrait */
+/* #profile .portrait { */
+/*     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3) inset; */
+/* } */
+
+/* align big-icon */
+.big-icon {
+    vertical-align: top;
+}
+
+.pub-list-item .pub-authors {
+    display: block;
+}
+/* author links color */
+.pub-authors a {
+    color: inherit;
+}
+
+/* Event titles */
+.pub-publication, .pub-publication a, .event, .event a {
+    color: #090;
+    font-size: 1rem;
+}
+
+.publication-title, .talk-title {
+    font-weight: bold;
+}
+
+.publication-title a, .talk-title a {
+    color: inherit;
+}
+
+/* darker even sections */
+.home-section:nth-of-type(even) {
+    background-color: rgb(243, 243, 243);
+}
+
+/* less vertical space */
+.home-section {
+    padding: 3em 0;
+}

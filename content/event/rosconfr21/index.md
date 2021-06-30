@@ -1,8 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-Title: "Corail, ROS2 Temps réel"
+title: "Corail, ROS2 Temps réel"
 event: "ROSConFR 2021"
+event_url: "https://discourse.ros.org/t/roscon-fr-2021-report/21104"
 location: "" 
 abstract: "Corail permet de faire du rt pour de vraie avec ROS2 blablabla"
 
